@@ -27,7 +27,7 @@ sub3=float(input("enter marks in 3rd subject:"))
 total=sub1+sub2+sub3
 average=total/3
 print("total marks:",total)
-print("Your average is:",average))
+print("Your average is:",average)
 
 
 
