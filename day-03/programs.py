@@ -1,3 +1,5 @@
+# Day 3: dictionaries
+
 # Program 1: Create and print
 details = {"name": "priya", "age": 24, "college": "university"}
 print(details["name"])
