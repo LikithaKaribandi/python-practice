@@ -1,3 +1,5 @@
+# Day 1: variables, data types, input and print
+
 # Program 1: Greeting
 name = input("Enter your name: ")
 print("Hello,", name)
