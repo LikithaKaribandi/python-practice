@@ -1,3 +1,5 @@
+# Day 5: Sets.
+
 # Problem 1: Remove duplicates
 numbers = [5, 3, 5, 2, 3, 1]
 unique = sorted(set(numbers))
@@ -24,6 +26,8 @@ print("In b but not in a:", b - a)
 subjects = {"maths", "physics", "chemistry", "biology", "english"}
 print("maths" in subjects)      # True
 print("history" in subjects)    # False
+
+# Day 5: Functions.
 
 # Problem 1: Greeting
 def greet(name):
