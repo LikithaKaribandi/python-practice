@@ -7,3 +7,4 @@ Daily Python practice programs while learning data analytics
 - Day 3: dictionaries
 - Day 4: if/else and loops
 - Day 5: sets and functions
+- Day 6: mini project (Student Marks Analyser).
